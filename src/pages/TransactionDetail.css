@@ -1,0 +1,56 @@
+.transaction-detail-container {
+  padding: 1rem;
+  max-width: 430px;
+  min-height: 932px;
+  margin: 0 auto;
+  background-color: #f2f2f6;
+}
+
+.transaction-detail__overall {
+  text-align: center;
+}
+
+.transaction-detail__back {
+  color: #1c87fe;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.transaction-detail__price {
+  font-size: 52px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.transaction-detail__name {
+  font-size: 18px;
+  color: #888;
+  margin-top: 10px;
+}
+
+.transaction-detail__date {
+  font-size: 14px;
+  color: #888;
+  margin-bottom: 20px;
+  margin-top: 6px;
+}
+
+.transaction-detail__info {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.transaction-detail__description {
+  color: #888;
+  border-bottom: 1px solid #f2f2f3;
+  padding-bottom: 12px;
+  margin-top: 4px;
+  margin-bottom: 12px;
+}
+
+.transaction-detail__total {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

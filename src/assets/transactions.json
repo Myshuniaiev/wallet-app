@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "amount": 14.06,
+    "date": "2024-12-25T10:00:00Z",
+    "type": "Credit",
+    "description": "Card Number Used Diana",
+    "pending": true,
+    "authorizedUser": "Diana"
+  },
+  {
+    "id": 2,
+    "name": "Payment",
+    "amount": 174.0,
+    "date": "2024-12-31T14:30:00Z",
+    "type": "Payment",
+    "description": "From JPMorgan Chase Bank National",
+    "pending": false
+  },
+  {
+    "id": 3,
+    "name": "IKEA",
+    "amount": 21.61,
+    "date": "2025-02-10T09:00:00Z",
+    "type": "Credit",
+    "description": "Round Rock, TX",
+    "pending": false
+  }
+]
